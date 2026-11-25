@@ -1,0 +1,20 @@
+﻿{
+    "domain":  "uteishub.com",
+    "bm_id":  "bm01",
+    "pages":  [
+                  {
+                      "path":  "/vsl1/",
+                      "template":  "Presell-ps-CogniClear-v1",
+                      "type":  "ps"
+                  }
+              ],
+    "notes":  "Subdominio tlx em uteishub.com; Presell v1 em /vsl1/",
+    "github_repo":  "DougsCorp/ca01-bm01-Andrea",
+    "operator":  "Andrea",
+    "status":  "deployed",
+    "ca_id":  "ca01",
+    "subdomain":  "tlx",
+    "product":  "CogniClear",
+    "full_url":  "https://tlx.uteishub.com",
+    "ga_measurement_id":  "G-PTY57M66PW"
+}
